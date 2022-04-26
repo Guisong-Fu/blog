@@ -10,16 +10,16 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Chainges',
+  domain: 'www.chainges.io',
+  author: 'Guisong Fu',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Guisong Fu\'s personal blog',
 
   // social usernames (optional)
   twitter: 'fou_soulmade',
-  github: 'Guisong-Fu',
+  github: null,
   linkedin: 'guisongfu',
 
   // default notion icon and cover images for site-wide consistency (optional)
@@ -39,11 +39,13 @@ export default siteConfig({
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
   // example:
-  //
+
+  // todo: 可以修改这里的配置，添加自定义的页面
   // pageUrlOverrides: {
   //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
+
   pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
