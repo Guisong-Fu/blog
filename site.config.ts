@@ -18,7 +18,7 @@ export default siteConfig({
   description: 'Guisong Fu\'s personal blog',
 
   // social usernames (optional)
-  twitter: 'fou_soulmade',
+  twitter: 'gs_fou',
   github: null,
   linkedin: 'guisongfu',
 
